@@ -7,7 +7,7 @@ int main()
     board game;
     int boardSize = game.getSize();
     const int SPRITE_SIZE = 12;
-    sf::RenderWindow window(sf::VideoMode(SPRITE_SIZE * boardSize, SPRITE_SIZE * boardSize), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(SPRITE_SIZE * boardSize, SPRITE_SIZE * boardSize), "Conway\'s Game of Life");
     sf::Texture livingPic;
     sf::Texture deadPic;
     sf::Sprite live;

@@ -414,9 +414,12 @@
 	"board.h"
 	"iostream"
 
-1482680071 source:c:\users\beth\my code\git\conwaysgameoflife\board.cpp
+1482946283 source:c:\users\beth\my code\git\conwaysgameoflife\board.cpp
 	"board.h"
-	<iostream>
 
-1482945998 c:\users\beth\my code\git\conwaysgameoflife\board.h
+1482946291 c:\users\beth\my code\git\conwaysgameoflife\board.h
+
+1482946345 source:c:\users\beth\my code\git\conwaysgameoflife\main.cpp
+	<SFML/Graphics.hpp>
+	"board.h"
 
